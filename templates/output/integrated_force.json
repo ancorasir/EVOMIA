@@ -1,0 +1,7 @@
+{
+    "type": "history",
+    "step": "Step-1",
+    "region": "Surface BOTTOM_SURFACE",
+    "outputs": ["SOF1", "SOF2", "SOF3", "SOM1", "SOM2", "SOM3"],
+    "section": "I-SECTION-1"
+}
