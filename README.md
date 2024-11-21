@@ -1,6 +1,6 @@
 # EVOMIA: Evolutionary Optimization for Material Identification with Abaqus
 
-[![python](https://img.shields.io/badge/python-3.7%20%7C%203.8%20%7C%203.9%20%7C%203.10%20%7C%203.11%20%7C%203.12-blue?style=flat-square)](https://www.python.org) [![abaqus](https://img.shields.io/badge/abaqus-2022%20%7C%202023%20%7C%202024-blue?style=flat-square)](https://www.3ds.com/products-services/simulia/products/abaqus/) [![optuna](https://img.shields.io/badge/optuna-3.4%20%7C%203.5%20%7C%203.6-blue?style=flat-square)](https://github.com/optuna/optuna) [![License](https://img.shields.io/badge/license-MIT-light_green?style=flat-square)](https://github.com/han-xudong/EVOMIA.git)
+[![python](https://img.shields.io/badge/python-&#8805;3.7-blue?style=flat-square)](https://www.python.org) [![abaqus](https://img.shields.io/badge/abaqus-&#8805;2022-blue?style=flat-square)](https://www.3ds.com/products-services/simulia/products/abaqus/) [![optuna](https://img.shields.io/badge/optuna-&#8805;3.4-blue?style=flat-square)](https://github.com/optuna/optuna) [![License](https://img.shields.io/badge/license-MIT-light_green?style=flat-square)](https://github.com/han-xudong/EVOMIA.git)
 
 ## Overview
 
@@ -20,9 +20,7 @@ After the optimization process, we can get the optimized material parameters of 
 
 ## Installation
 
-EVOMIA needs to be installed first before use. The code requires `python>=3.7` and `abaqus>=2022`.
-
-Note that it's recommended to create a new Python environment for this installation to avoid conflicts with other packages. For example, you can use `conda` to create a new environment:
+It's recommended to create a new Python environment for this installation to avoid conflicts with other packages. For example, you can use `conda` to create a new environment:
 
 ```bash
 conda create -n evomia python=3.10
@@ -34,7 +32,6 @@ Then you can install EVOMIA using:
 ```bash
 git clone https://github.com/ancorasir/EVOMIA.git
 cd EVOMIA
-pip install pip -U
 pip install -r requirements.txt
 ```
 
