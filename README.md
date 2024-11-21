@@ -56,6 +56,7 @@ python evomia.py
 
 During the process, the parameters and error will be shown in the console, as well as the trial number for the best parameters. All data will be saved in `databoard.sqlite3`, and you can visualize the data by right-clicking on the file and selecting `Open with Optuna Dashboard`, or just follow the [tutorial](notebooks/tutorial.ipynb) to see the results.
 
+<div align="center">
 <table><tr>
 <td><img src="assets/example_history.png" height="200" border=0 /></td>
 <td><img src="assets/example_slice.png" height="200" border=0 /></td>
@@ -65,6 +66,7 @@ During the process, the parameters and error will be shown in the console, as we
 <td><img src="assets/example_relation.png" height="200" border=0 /></td>
 <td><img src="assets/example_contour.png" height="200" border=0 /></td>
 </tr></table>
+</div>
 
 Please refer to the [tutorial](notebooks/tutorial.ipynb) for more details.
 
