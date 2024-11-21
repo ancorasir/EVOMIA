@@ -51,7 +51,7 @@ If you don't have above files, you can use the example files to run the code dir
 python evomia.py
 ```
 
-During the process, the parameters and error will be shown in the console, as well as the trial number for the best parameters. All data will be saved in `databoard.sqlite3`, and you can visualize the data by right-clicking on the file and selecting `Open with Optuna Dashboard`, or just follow the [tutorial](notebooks/tutorial.ipynb) to see the results.
+During the process, the parameters and error will be shown in the console, as well as the trial number for the best parameters. All data will be saved in `databoard.sqlite3`, and you can visualize the data by right-clicking on the file and selecting `Open with Optuna Dashboard`, or just follow the [tutorial](./notebooks/tutorial.ipynb) to see the results.
 
 <div align="center">
 <table><tr>
@@ -65,7 +65,7 @@ During the process, the parameters and error will be shown in the console, as we
 </tr></table>
 </div>
 
-Please refer to the [tutorial](notebooks/tutorial.ipynb) for more details.
+Please refer to the [tutorial](./notebooks/tutorial.ipynb) for more details.
 
 ## Contributing
 
@@ -73,7 +73,7 @@ Contributions are welcome! For bug reports or requests, please submit an issue. 
 
 ## License
 
-EVOMIA is licensed under the [MIT License](LICENSE).
+EVOMIA is licensed under the [MIT License](./LICENSE).
 
 ## Acknowledgements
 
